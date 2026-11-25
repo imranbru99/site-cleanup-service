@@ -1,5 +1,6 @@
 *.log
 .DS_Store
+.composer-home/
 .env
 .env.backup
 .env.production
